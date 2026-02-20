@@ -12,8 +12,14 @@ define('DB_NAME', 'electronics_inventory');
 define('APP_NAME', 'Electronics Inventory System');
 define('APP_VERSION', '1.0.0');
 
+// Test Push: marker added for verifying repository push
+
 // Timezone
 date_default_timezone_set('Africa/Mbabane');
+
+//TEST PUSH: marker added for verifying repository push
+
+// ERRor reporting 
 
 // Database Connection
 try {
