@@ -2,6 +2,8 @@
 // config.php - Database Configuration
 session_start();
 
+//Final Test
+
 // Database Configuration
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
