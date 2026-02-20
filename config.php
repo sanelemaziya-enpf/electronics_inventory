@@ -17,6 +17,8 @@ define('APP_VERSION', '1.0.0');
 // Timezone
 date_default_timezone_set('Africa/Mbabane');
 
+//TEST PUSH: marker added for verifying repository push
+
 // ERRor reporting 
 
 // Database Connection
